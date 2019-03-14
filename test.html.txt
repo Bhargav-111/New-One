@@ -5,14 +5,14 @@
 #header{
 height:100px;
 color:red;
-border:1px solid blue;
-background-color:pink;
+border:1px solid pink;
+background-color:blue;
 }
 #footer{
 height:100px;
 background-color:grey;
 color:white;
-border:1px solid blue;
+border:5px solid black;
 position:absolute;
 bottom:20px;
 width:100%;
@@ -23,7 +23,7 @@ float:left;
 padding:22px;
 }
 id{
-border:2px solid blue;
+border:5px solid black;
 }
 
 </style>
