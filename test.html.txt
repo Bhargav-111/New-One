@@ -25,7 +25,6 @@ padding:22px;
 id{
 border:2px solid blue;
 }
-
 </style>
 </head>
 <body>
